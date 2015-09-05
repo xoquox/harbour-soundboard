@@ -1,0 +1,4 @@
+#ifndef FILEPROPERTY_P_H
+#define FILEPROPERTY_P_H
+
+#endif // FILEPROPERTY_P_H

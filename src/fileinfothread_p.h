@@ -1,0 +1,4 @@
+#ifndef FILEINFOTHREAD_P_H
+#define FILEINFOTHREAD_P_H
+
+#endif // FILEINFOTHREAD_P_H
